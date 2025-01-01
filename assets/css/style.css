@@ -242,6 +242,10 @@ article.active {
   font-weight: var(--fw-500);
 }
 
+.h6 {
+  font-size: var(--fs-8);
+}
+
 .article-title {
   position: relative;
   padding-bottom: 7px;
